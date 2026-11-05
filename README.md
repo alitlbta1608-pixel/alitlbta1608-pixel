@@ -17,7 +17,9 @@ I'm currently learning programming and developing my skills through projects and
 
 <h2>🚀 Currently Learning</h2>
 <p>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter4)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
 </p>
 ---
 <h2>📂 My Projects</h2>
